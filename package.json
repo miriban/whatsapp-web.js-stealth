@@ -4,7 +4,6 @@
     "description": "Library for interacting with the WhatsApp Web API ",
     "main": "./index.js",
     "typings": "./index.d.ts",
-    "type": "module",
     "scripts": {
         "test": "mocha tests --recursive --timeout 5000",
         "test-single": "mocha",
