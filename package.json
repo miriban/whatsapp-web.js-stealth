@@ -3,6 +3,7 @@
     "version": "1.26.0",
     "description": "Library for interacting with the WhatsApp Web API ",
     "main": "./index.js",
+    "type": "commonjs",
     "typings": "./index.d.ts",
     "scripts": {
         "test": "mocha tests --recursive --timeout 5000",
